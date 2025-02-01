@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "467738847242",
+    "project_id": "sprints-example",
+    "storage_bucket": "sprints-example.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467738847242:android:9d2461a69ed965051cd7f3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0K6qDsa6G-QEnieiD2ktViOCGIzOSFew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467738847242:android:90914d5153c4d5021cd7f3",
+        "android_client_info": {
+          "package_name": "com.example.simple_shopping_interface"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0K6qDsa6G-QEnieiD2ktViOCGIzOSFew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
