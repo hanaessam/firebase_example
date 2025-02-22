@@ -39,3 +39,20 @@ This project is a starting point for a Flutter application with Firebase integra
 
 ### Data on firebase
 ![alt text](image.png)
+
+
+### App distribution on firebase 
+#### Generate APK build for android by running this command in CMD
+```sh
+    flutter build apk --release
+```
+![alt text](image-2.png)
+
+Add the generated build in firebase distribution and add a test message for beta testers 
+
+![alt text](image-1.png)
+
+### Project App ID on firebase and in my google-services.json file
+![alt text](image-3.png)
+
+![alt text](image-4.png)
